@@ -17,7 +17,7 @@ A beautiful, interactive birthday celebration website created with HTML5, CSS3, 
 ## 📋 Project Structure
 
 ```
-├── password.html       # Entry gate (password: 6297673370)
+├── password.html       # Entry gate (password: arghamita)
 ├── index.html          # Welcome page with heart button
 ├── memory.html         # Memory gallery with 9 photos
 ├── cake.html           # Interactive birthday cake
@@ -37,7 +37,7 @@ A beautiful, interactive birthday celebration website created with HTML5, CSS3, 
 ## 🔐 Access
 
 1. Navigate to `http://192.168.0.2:8000/password.html`
-2. Enter password: **6297XXXXXX**
+2. Enter password: **arghamita**
 3. Follow the journey through the birthday website
 
 ## 🚀 Running the Website
@@ -56,7 +56,7 @@ http://192.168.0.2:8000/password.html
 ## 📸 Page Details
 
 ### Password Page
-- Secure entry with Arghamita's WhatsApp number
+- Secure entry with personalized password
 - Smooth success animation upon correct password entry
 
 ### Welcome Page (index.html)
@@ -117,10 +117,24 @@ Works on all modern browsers:
 - Safari
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 👨‍💻 Created By
+## 🌐 Online Deployment
 
-**By ~ Dipankar**
+### Deploy to Netlify (Recommended)
+1. Push code to GitHub repository
+2. Sign up at [netlify.com](https://netlify.com) with GitHub
+3. Connect your repository
+4. Deploy automatically
 
----
+**Live URL**: `https://your-site-name.netlify.app/password.html`
 
-**Enjoy the celebration! 🎉🎂✨**# Free_Birthday_Code
+### Deploy to GitHub Pages
+1. Push code to GitHub
+2. Enable GitHub Pages in repository settings
+3. Site available at: `https://username.github.io/Free_Birthday_Code/password.html`
+
+## 🔑 Access Information
+
+**Password**: `arghamita`
+**Hint**: Her name 😉
+
+This deployment uses **client-side password protection**, which is suitable for casual use. For sensitive data, consider server-side authentication.
